@@ -16,3 +16,23 @@ A modular sequencer consisting of a control module and 1 or more linkable io-mod
 - play mode is then activated
 - control board sends a gate active command; board_id + port + on / off
 - io board scans inputs, gate on/off, cv value & gate length for all of its 4 ports and sends it to the control board.
+
+## features
+
+### Main Control Board
+
+- tempo pot
+- tempo external input (bpm)
+- tempo CV input (?)
+- start / stop button
+- start / stop trigger inputs (?)
+- CV output
+- CV Portamento
+- Gate Output
+
+### IO Board
+
+- 4x CV level pot
+- 4x Gate length pot
+- 4x Gate on/off toggle switch
+- 4x Step indicator LED

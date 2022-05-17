@@ -36,3 +36,10 @@ A modular sequencer consisting of a control module and 1 or more linkable io-mod
 - 4x Gate length pot
 - 4x Gate on/off toggle switch
 - 4x Step indicator LED
+
+
+## Links
+
+https://www.instructables.com/ATTiny84-I2C-Slave-Arduino-UNO/
+https://thecustomizewindows.com/2019/03/how-to-invert-signal-for-arduino-high-to-low-or-the-reverse/
+https://docs.arduino.cc/learn/communication/wire
